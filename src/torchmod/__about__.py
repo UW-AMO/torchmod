@@ -3,8 +3,8 @@ __all__ = [
     "__email__", "__license__", "__copyright__",
 ]
 
-__title__ = "limetr"
-__summary__ = "limetr: linear mixed effects model with trimming."
+__title__ = "torchmod"
+__summary__ = "Custom torch module extension."
 __uri__ = "https://github.com/UW-AMO/torchmod"
 
 __version__ = "0.0.0"
